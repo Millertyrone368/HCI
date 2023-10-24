@@ -1,0 +1,67 @@
+/* styles go here. you can organize by fonts, layout, etc */
+
+
+
+/* FONTS */
+
+body {
+background-color: rgb(255, 255, 255);
+padding: 25px;
+font-family: 'Cantarell', sans-serif; 
+}
+
+section {
+background-color: rgb(255, 255, 255);
+width: 700px;
+padding: 20px;
+margin: 15px;
+font-family: 'Cantarell', sans-serif;
+}
+
+.code {
+    background-color: white;
+    padding: 200px;
+    font-size: 2.0em;
+    font-family: 'Cantarell', sans-serif;
+}
+
+
+
+/* LAYOUT */
+
+.picture {
+    width: 1300px ;
+    height: 500px;
+    background-image: url("images/black.png");
+}
+
+#blackpicture2:hover {
+    background-image: url("images/grey.jpg");
+}
+#blackpicture3:hover {
+    background-image: url("images/lightgrey.jpg");
+}
+#blackpicture4:hover {
+    background-image: url("images/offwhite.jpg");
+}
+#blackpicture5:hover {
+    background-image: url("images/lightblue.jpg");
+}
+#blackpicture6:hover {
+    background-image: url("images/blue.png");
+}
+#blackpicture7:hover {
+    background-image: url("images/yellow.png");
+}
+#blackpicture8:hover {
+    background-image: url("images/orange.jpg");
+}
+#blackpicture9:hover {
+    background-image: url("images/red.jpg");
+}
+#blackpicture10:hover {
+    background-image: url("images/violet.jpg");
+}
+#blackpicture11:hover {
+    background-image: url("images/darkpurp.jpg");
+}
